@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+requests
+httpx
+python-dotenv
+shapely
+pyproj
+python-multipart
