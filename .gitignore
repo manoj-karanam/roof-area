@@ -1,2 +1,14 @@
+# Python env
+venv/
+backend/venv/
+
+# Environment variables
+.env
 frontend/.env
-venv
+backend/.env
+
+# Mac system files
+.DS_Store
+
+# Node modules
+node_modules/
