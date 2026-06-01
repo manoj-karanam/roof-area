@@ -1,10 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
-import Home from "./pages/Home";
 
+import RoofAnalyzer from "./components/RoofAnalyzer";
 
 function App() {
-  return <Home />;
+  return (
+    <div>
+      <RoofAnalyzer />
+    </div>
+  );
 }
 
 export default App;
